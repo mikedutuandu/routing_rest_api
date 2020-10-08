@@ -1,0 +1,12 @@
+{
+    "DB_USERNAME": "root",
+    "DB_PASSWORD": "bx8hBni6m2449k",
+    "DB_PORT": "3306",
+    "DB_HOST": "ec2-3-0-95-18.ap-southeast-1.compute.amazonaws.com",
+    "DB_NAME": "janio",
+    "SERVER_HOST": "http://ec2-3-0-95-18.ap-southeast-1.compute.amazonaws.com:8000",
+    "AWS_BUCKET": "janio-dev",
+    "AWS_REGION": "ap-southeast-1",
+    "AWS_ACCESS_KEY_ID":"AKIAJAQ7PNSBPU7L27BQ",
+    "AWS_SECRET_ACCESS_KEY":"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"
+}

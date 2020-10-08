@@ -1,0 +1,10 @@
+.idea
+.env
+
+logs
+assets
+config/config.json
+
+janio-backend
+
+janio-backend_bk
